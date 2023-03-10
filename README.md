@@ -25,6 +25,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ### My blog posts
+(https://devemeka.hashnode.dev/how-to-add-custom-font-to-tailwind-for-web-and-locally-downloaded-fonts)
 
 ### 📊 GitHub Stats 
 ---
