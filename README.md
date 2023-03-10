@@ -26,6 +26,9 @@
 
 ### My blog posts
 [How to add Custom Font to Tailwind](https://devemeka.hashnode.dev/how-to-add-custom-font-to-tailwind-for-web-and-locally-downloaded-fonts)
+[A Descriptive Guide to CSS Positioning - Position Absolute and Relative](https://devemeka.hashnode.dev/a-descriptive-guide-to-css-positioning-position-absolute-and-relative)  
+[An Introduction to React Router - A Beginner's Guide](https://devemeka.hashnode.dev/an-introduction-to-react-router-a-beginners-guide)
+[How to Hide and Show Password by Toggle in React Js](https://devemeka.hashnode.dev/how-to-hide-and-show-password-by-toggle-in-react-js)
 
 ### 📊 GitHub Stats 
 ---
