@@ -1,7 +1,7 @@
 
 <h2>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </h2>
 
-### 👨🏻‍💻 &nbsp; I'm Emeka
+# 👨🏻‍💻 &nbsp; I'm Emeka
 
 💡 &nbsp; A Frontend Developer | Technical and Content writer <img height=20px width=20px src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
 🎓 I'm currently learning Next JS and Typescript\
